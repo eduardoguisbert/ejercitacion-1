@@ -5,11 +5,10 @@
 }
 
 body{
-    background-color: crimson;
+    background-color: steelblue;
 }
 
 h1{
-    color: aquamarine;
-    font-style: italic;
+    font-size: 5rem;
 }
 
